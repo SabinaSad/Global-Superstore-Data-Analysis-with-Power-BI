@@ -24,5 +24,6 @@ Contribute 🚀
 
 We value your input! Whether you have ideas for improvement, notice something that needs fixing, or want to contribute your expertise, I 'd love to hear from you. 
 
+![global sale](https://github.com/SabinaSad/Global-Superstore-Data-Analysis-with-Power-BI/assets/122239926/e3d9db98-0e03-4a0f-8e85-ce3f67338ae6)
 
 
